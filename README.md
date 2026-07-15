@@ -8,6 +8,21 @@ A modular Python toolkit for market risk analysis, Value-at-Risk estimation, and
 - VaR Backtesting
 - Risk Visualization
 
-## Status
+## objective
 
-🚧 Under Development
+Build a modular Python toolkit for market risk analysis capable of:
+
+- downloading returns
+- estimating volatility
+- computing Historical VaR
+- computing Parametric VaR
+- backtesting VaR models
+- generating risk reports
+
+## Dataset
+
+Ticker: **SPY**
+
+Period: 2015-01-01
+
+Frequency: Daily
